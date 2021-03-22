@@ -1,0 +1,25 @@
+#drum-machine{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: purple;
+
+}
+
+#display{
+  display: flex;
+  flex-wrap: wrap;
+  width: 350px;
+}
+
+button{
+  width: 100px;
+  height: 100px;
+  font-size: 20px;
+  font-weight: bold;
+  border: 2px solid purple;
+  color: purple;
+
+    
+}
